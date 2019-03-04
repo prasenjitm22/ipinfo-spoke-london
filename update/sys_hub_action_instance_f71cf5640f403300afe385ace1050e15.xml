@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Geographic Data from IP">3daaf5240f403300afe385ace1050efd</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">db8b7d240f403300afe385ace1050e0f</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-04 13:06:33</sys_created_on>
+        <sys_id>f71cf5640f403300afe385ace1050e15</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPInfo Spoke" source="x_121029_ipinfo_sp">0ad931a00f403300afe385ace1050e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">0ad931a00f403300afe385ace1050e81</sys_scope>
+        <sys_update_name>sys_hub_action_instance_f71cf5640f403300afe385ace1050e15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-04 13:49:48</sys_updated_on>
+        <ui_id>12b14c6a-e010-489c-9acc-9b5ffc25f939</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f71cf5640f403300afe385ace1050e15"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f71cf5640f403300afe385ace1050e15</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-04 13:49:48</sys_created_on>
+        <sys_id>55064ea80f403300afe385ace1050e48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-04 13:49:48</sys_updated_on>
+        <value>121.243.26.251</value>
+        <variable display_value="">7915c6680f403300afe385ace1050e5b</variable>
+    </sys_variable_value>
+</record_update>
